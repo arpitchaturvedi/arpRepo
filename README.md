@@ -7,3 +7,4 @@ int n=10;
 c=m+n;
 print(c);
 }
+welcome to git
